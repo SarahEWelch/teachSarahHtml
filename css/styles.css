@@ -32,3 +32,8 @@ p.greeting{
 h1{
 	text-align:center;
 }
+.col-xs-8.clock_wrapper{
+	margin-left:25%;
+	padding-bottom: 50%;
+
+}
