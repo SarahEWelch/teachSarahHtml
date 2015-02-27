@@ -1,5 +1,6 @@
 div.col-xs-12.whiteBar{
-	background:pink;
+	background:#ffb6d0;
+	color: white;
 }
 
 .col-xs-12.mainContent{	
@@ -26,7 +27,7 @@ p.greeting{
 	display: inline-block;
 }
 .col-xs-12.AboutTwitter{
-	background-color:#AE8ED2;
+	background-color:#decaff;
 	color:white;
 }
 h1{
@@ -36,4 +37,8 @@ h1{
 	margin-left:25%;
 	padding-bottom: 50%;
 
+}
+h5{
+	text-align: center;
+	color: white;
 }
